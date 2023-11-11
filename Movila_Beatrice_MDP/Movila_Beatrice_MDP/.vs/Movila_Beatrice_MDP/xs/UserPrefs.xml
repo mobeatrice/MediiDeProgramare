@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{BD37DD6B-8056-41E9-BFBD-17E5AF082DEE}|https">
+  <MonoDevelop.Ide.ItemProperties.Movila__Beatrice__MDP PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Movila_Beatrice_MDP" expanded="True" selected="True">
+            <Node name="Movila_Beatrice_MDP" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

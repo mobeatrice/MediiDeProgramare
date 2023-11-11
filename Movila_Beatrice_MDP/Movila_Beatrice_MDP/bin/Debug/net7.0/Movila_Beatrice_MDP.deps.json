@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Movila_Beatrice_MDP/1.0.0": {
+        "runtime": {
+          "Movila_Beatrice_MDP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Movila_Beatrice_MDP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
