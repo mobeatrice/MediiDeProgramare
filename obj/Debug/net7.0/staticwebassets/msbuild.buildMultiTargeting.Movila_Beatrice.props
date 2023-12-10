@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Movila_Beatrice.props" />
+</Project>
